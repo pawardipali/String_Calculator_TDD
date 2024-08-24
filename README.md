@@ -12,6 +12,7 @@ Examples:
 Input: “”, Output: 0
 Input: “1”, Output: 1
 Input: “1,5”, Output: 6
+
 2. Allow the add method to handle any amount of numbers.
 
 3. Allow the add method to handle new lines between numbers (instead of commas). ("1\n2,3" should return 6)
